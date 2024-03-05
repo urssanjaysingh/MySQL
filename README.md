@@ -33,4 +33,4 @@ urssanjaysingh welcomes contributions to this repository! If you have any SQL qu
 
 If you have any questions or need further assistance, you can reach out to urssanjaysingh via email at sanjaysingh26112000@gmail.com.
 
-Thank you for visiting this repository, and happy learning with MySQL and the `mysqlsampledatabase`!
+Thank you for visiting this repository, and happy learning with MySQL and the `mysqlsampledatabase`! :)
